@@ -1,10 +1,10 @@
 ## Hi there 👋
 - I'm Alejandro Vila Pouca Gonçalves, originally from Madrid, Spain, but I've spent most of my life in Porto, Portugal.
 
-## About Me
+## About Me 🎓
 - I'm currently studying **Artificial Intelligence and Data Science** at Faculty of Science of University of Porto (FCUP).
 
-## 🚀 What Drives Me
+## What Drives Me 🚀 
 - I consider myself as a hardworking and motivated individual, always eager to learn, improve and take on new challenges. I'm very interested in AI, especially its applications in medicine and gaming, math and programming. I strive to apply my knowledge to the real world!
 
 ### Education
