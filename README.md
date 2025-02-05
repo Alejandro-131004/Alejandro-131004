@@ -5,7 +5,7 @@
 - I'm currently studying **Artificial Intelligence and Data Science** at Faculty of Science of University of Porto (FCUP).
 
 ## What Drives Me 🚀 
-- I consider myself as a hardworking and motivated individual, always eager to learn, improve and take on new challenges. I'm very interested in AI, especially its applications in medicine and gaming, math and programming. I strive to apply my knowledge to the real world!
+- I consider myself as a hardworking and motivated individual, always eager to learn, improve and take on new challenges. I'm very interested in AI, especially its applications in medicine, gaming and , math, programming and Machine Learning. I strive to apply my knowledge to the real world!
 
 ### Education
 - 🎓 BSc in Artificial Intelligence and Data Science in 2022/2025
