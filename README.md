@@ -1,26 +1,32 @@
-## Hi there 👋
-- I'm Alejandro Vila Pouca Gonçalves, originally from Madrid, Spain, but I've spent most of my life in Porto, Portugal.
+## Alejandro Gonçalves
 
-## About Me 🤔
-- I'm currently studying **Artificial Intelligence and Data Science** at Faculty of Science of University of Porto (FCUP).
+MSc student in Artificial Intelligence at the University of Porto (FEUP & FCUP), with a BSc
+in Artificial Intelligence and Data Science from the same university. Born in Madrid, based
+in Porto.
 
-## What Drives Me 🚀 
-- I consider myself as a hardworking and motivated individual, always eager to learn, improve and take on new challenges. I'm very interested in AI, especially its applications in medicine, gaming and , math, programming and Machine Learning. I strive to apply my knowledge to the real world!
+### What I work on
 
-## Education 🎓
-- BSc in Artificial Intelligence and Data Science in 2022/2025
+Applied machine learning and data products end to end: relational data modelling, ETL,
+predictive modelling, and shipping the result as something people actually use. A good part
+of my recent work sits at the intersection of data and football.
 
-<!--
-**Alejandro-131004/Alejandro-131004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Publication
 
-Here are some ideas to get you started:
+Alejandro Gonçalves, Francisca Mihalache, João Sousa, Gonçalo Leão, Luís Paulo Reis.
+*Curriculum-Based Navigation in Simulated Tunnels using Proportional and Evolutionary
+Controllers.* ROBOT 2025 — 8th Iberian Robotics Conference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected projects
+
+- **[Lung Cancer Classification from CT Data](https://github.com/Alejandro-131004/Lung-Cancer-Classification)**
+  Radiomic and Fourier feature extraction, Random Forest and Lasso selection, benchmarking
+  across 17 configurations. Best model at 89.7% accuracy.
+- **Football Scouting Platform** — PostgreSQL/Supabase database and authenticated PWA, in
+  production at a player-representation agency. Private repository.
+- **EURO 2016 Football Database** — relational tournament database with a Flask front end.
+- **Urban Sound Classification** — MLP and CNN benchmarking on UrbanSound8K, with adversarial
+  robustness analysis using DeepFool.
+
+### Contact
+
+alejandrovpg2004@gmail.com · [LinkedIn](https://www.linkedin.com/in/alejandro-goncalves-5a4baa2a5/)
