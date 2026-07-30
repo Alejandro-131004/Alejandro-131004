@@ -29,10 +29,6 @@ MLP and CNN benchmarking on UrbanSound8K, with adversarial robustness analysis u
 ⚽ **[EURO 2016 Football Database](https://github.com/pmgfernandes04/EURO2016)**
 Relational tournament database with a Flask front end.
 
-📊 **Football Scouting Platform**
-PostgreSQL/Supabase database and authenticated PWA, in production at a player-representation
-agency. Private repository.
-
 ## Toolbox 🧰
 
 `Python` `SQL` `PyTorch` `scikit-learn` `pandas` `PostgreSQL` `FastAPI` `Flask` `C++` `Java` `R`
