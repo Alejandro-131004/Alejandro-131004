@@ -21,10 +21,10 @@ Controllers.* ROBOT 2025 — 8th Iberian Robotics Conference.
 - **[Lung Cancer Classification from CT Data](https://github.com/Alejandro-131004/Lung-Cancer-Classification)**
   Radiomic and Fourier feature extraction, Random Forest and Lasso selection, benchmarking
   across 17 configurations. Best model at 89.7% accuracy.
-- **Football Scouting Platform** — PostgreSQL/Supabase database and authenticated PWA, in
+- **[Football Scouting Platform](https://github.com/Alejandro-131004/clubs-database)** — PostgreSQL/Supabase database and authenticated PWA, in
   production at a player-representation agency. Private repository.
-- **EURO 2016 Football Database** — relational tournament database with a Flask front end.
-- **Urban Sound Classification** — MLP and CNN benchmarking on UrbanSound8K, with adversarial
+- **[EURO 2016 Football Database](https://github.com/pmgfernandes04/EURO2016)** — relational tournament database with a Flask front end.
+- **[Urban Sound Classification](https://github.com/Alejandro-131004/AC-II)** — MLP and CNN benchmarking on UrbanSound8K, with adversarial
   robustness analysis using DeepFool.
 
 ### Contact
