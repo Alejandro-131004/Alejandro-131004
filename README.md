@@ -16,6 +16,7 @@ drawn to AI in medicine, computer vision and reinforcement learning.
 Alejandro Gonçalves, Francisca Mihalache, João Sousa, Gonçalo Leão, Luís Paulo Reis.
 *Curriculum-Based Navigation in Simulated Tunnels using Proportional and Evolutionary
 Controllers.* ROBOT 2025 — 8th Iberian Robotics Conference.
+📂 [Code](https://github.com/Alejandro-131004/autonomous-navigation-in-tunnels-using-proportional-and-evolution-based-controllers)
 
 ## Selected projects 🛠️
 
@@ -25,6 +26,10 @@ across 17 configurations. Best model at 89.7% accuracy.
 
 🔊 **[Urban Sound Classification](https://github.com/Alejandro-131004/AC-II)**
 MLP and CNN benchmarking on UrbanSound8K, with adversarial robustness analysis using DeepFool.
+
+🏠 **[Multi-Agent Smart Home Energy Management](LINK)**
+Cooperating agents negotiating appliance scheduling to minimise energy cost under variable
+tariffs.
 
 ⚽ **[EURO 2016 Football Database](https://github.com/pmgfernandes04/EURO2016)**
 Relational tournament database with a Flask front end.
